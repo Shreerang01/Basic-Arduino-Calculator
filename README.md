@@ -61,7 +61,7 @@ For Actual Implementation
     5. Power on your Arduino and interact with the calculator using the keypad and observe the results on the LCD display.
 ## Schematic
 
-![Schematic](Simulation on Tinkercad.png)
+![Schematic](Simulation-on-Tinkercad.png)
 ## Usage
 
 ```bash
